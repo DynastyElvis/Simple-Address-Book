@@ -34,7 +34,7 @@ This project is a web application for Delani studios that displays information a
 [Go Back to the top](#SIMPLE-ADDRESS-BOOK)
 
 ## Screenshot
-<img src="https://github.com/DynastyElvis/Delani-Studio/blob/main/Screenshot%20from%202022-03-13%2018-59-20.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Simple-Address-Book/blob/main/Screenshot%20from%202022-03-16%2009-09-24.png" width="800px" height="400px">
 
 [LIVE LINK >>](https://dynastyelvis.github.io/Delani-Studio/)
 
@@ -45,9 +45,9 @@ This project is a web application for Delani studios that displays information a
 ## Installation
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/DynastyElvis/Delani-Studio```
+* git clone ```https://github.com/DynastyElvis/Simple-Address-Book```
 
-* cd ```Delani-Studio```
+* cd ```Simple-Address-Book```
 
 * code . or atom . based on the text editor you have.
 
@@ -90,7 +90,7 @@ https://www.codegrepper.com/app/index.php
 
 ## Licence
 
-[MIT LICENCE](https://github.com/DynastyElvis/Delani-Studio/blob/main/LICENSE)
+[MIT LICENCE](https://github.com/DynastyElvis/Simple-Address-Book/blob/main/LICENSE)
 
 2022
 
