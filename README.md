@@ -29,14 +29,15 @@
 
 [Go Back to the top](#SIMPLE-ADDRESS-BOOK)
 ## Description
-This project is a web application for Delani studios that displays information about the services it provides, as well as studio information, a portfolio area, and a form for users to express messages and concerns to Delani studios.
+a small book like a form in which one writes the names, addresses, acquaintances and telephone numbers of people one knows
+
 
 [Go Back to the top](#SIMPLE-ADDRESS-BOOK)
 
 ## Screenshot
 <img src="https://github.com/DynastyElvis/Simple-Address-Book/blob/main/Screenshot%20from%202022-03-16%2009-09-24.png" width="800px" height="400px">
 
-[LIVE LINK >>](https://dynastyelvis.github.io/Delani-Studio/)
+[LIVE LINK >>](https://dynastyelvis.github.io/Simple-Address-Book/)
 
 
 
